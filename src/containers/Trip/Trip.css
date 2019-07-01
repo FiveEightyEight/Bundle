@@ -1,0 +1,178 @@
+@media only screen and (max-width: 600px) {
+  .trip-container {
+    background-color: #c3d8e7;
+    padding-bottom: 3rem;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    min-height: 100vh;
+  }
+
+  .trip-details-section {
+    background-image: url(https://source.unsplash.com/random);
+    background-size: cover;
+  }
+
+  .trip-details-title {
+    font-size: 2.5rem;
+  }
+
+  .trip-destination-title {
+    font-size: 2.85rem;
+  }
+
+  .trip-departure-time-text {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-items: center;
+    width: 16%;
+  }
+
+  .trip-destination-time-space {
+    width: 28.3%;
+  }
+
+  .trip-details-container {
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    padding-bottom: 1.5rem;
+  }
+
+  .trip-itinerary-container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: calc(10% / 2);
+    padding-left: 3rem;
+    padding-right: 3rem;
+    background-color: #4996c9;
+    border-radius: 2.5rem;
+    padding-bottom: 3rem;
+  }
+
+  .global-card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.75rem;
+  }
+
+  .trip-details-section-background-gradient {
+    background: rgb(73, 150, 201);
+    background: linear-gradient(
+      180deg,
+      rgba(73, 150, 201, 0.5) 0%,
+      rgba(73, 150, 201, 0.5) 50%,
+      rgba(73, 150, 201, 0.5) 100%
+    );
+  }
+
+  .trip-destination-dates {
+    font-size: 1.75rem;
+  }
+
+  .trip-departure-time-text {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-items: center;
+    width: 45%;
+    font-size: 2rem;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .trip-container {
+    background-color: #c3d8e7;
+    padding-bottom: 3rem;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    min-height: 100vh;
+  }
+
+  .pack-button-container {
+    width: 16%;
+  }
+
+  .pack-button {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .trip-details-title {
+    font-size: 3.5rem;
+  }
+
+  .trip-destination-title {
+    font-size: 4.85rem;
+  }
+
+  .trip-destination-dates {
+    font-size: 2.5rem;
+  }
+
+  .trip-departure-time-text {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-items: center;
+    width: 45%;
+    font-size: 2.5rem;
+  }
+
+  .trip-destination-time-space {
+    width: 28.3%;
+  }
+
+  .trip-details-section {
+  }
+  .trip-details-container {
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+  }
+
+  .trip-itinerary-container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: calc(10% / 2);
+    padding-left: 3rem;
+    padding-right: 3rem;
+    background-color: #4996c9;
+    border-radius: 2.5rem;
+    padding-bottom: 3rem;
+  }
+
+  .global-card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.75rem;
+  }
+
+  .trip-details-section-background-gradient {
+    background: rgb(73, 150, 201);
+    background: linear-gradient(
+      180deg,
+      rgba(73, 150, 201, 0.5) 0%,
+      rgba(73, 150, 201, 0.5) 50%,
+      rgba(73, 150, 201, 0.5) 100%
+    );
+  }
+}

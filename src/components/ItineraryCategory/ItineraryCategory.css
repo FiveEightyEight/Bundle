@@ -1,0 +1,50 @@
+@media only screen and (max-width: 600px) {
+  .itinerary-card-body {
+    margin-left: 3.5rem;
+    text-transform: capitalize;
+    font-size: 2rem;
+  }
+
+  .itinerary-card-text {
+    font-size: 1.5rem;
+  }
+
+  .itinerary-category-card-header {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    justify-content: center;
+    margin-bottom: 0;
+    background-color: rgba(0, 0, 0, 0.03);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .itinerary-card-body {
+    margin-left: 3.5rem;
+    text-transform: capitalize;
+    font-size: 2rem;
+  }
+
+  .itinerary-card-text {
+    font-size: 1.5rem;
+  }
+
+  .itinerary-category-card-header {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    justify-content: center;
+    margin-bottom: 0;
+    background-color: rgba(0, 0, 0, 0.03);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  }
+
+  .itinerary-card-header-img {
+    width: 20%;
+    height: 80%;
+  }
+}

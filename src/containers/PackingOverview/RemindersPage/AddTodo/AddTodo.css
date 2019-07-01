@@ -1,0 +1,56 @@
+.add-todo-button {
+  min-height: 4.5rem;
+  min-width: 4.5rem;
+  bottom: 0;
+  color: var(--white);
+  border: 1px solid var(--denimBlue);
+}
+
+.add-todo-button:hover {
+  background: var(--white);
+  color: var(--denimBlue);
+  transition: 0.3s;
+}
+
+.add-todo-button:focus {
+  outline: none;
+}
+
+.dropdown-container {
+  height: 8rem;
+  width: 22rem;
+  position: absolute;
+  box-shadow: -1px 7px 14px #9d9d9d;
+  top: -10px;
+  right: -35px;
+  left: 15px;
+}
+
+.border-denimBlue {
+  border: 1px solid var(--denimBlue);
+}
+
+.add-todo-dropdown-row {
+  border-radius: 0.8rem;
+}
+
+.add-todo-label {
+  font-size: 1.3rem;
+  font-weight: bolder;
+  text-shadow: 0.01rem 0.01rem 0.01rem var(--smokeGrey);
+}
+
+.add-todo-input {
+  width: 100%;
+}
+
+.add-button {
+  border-radius: 14px;
+}
+
+.add-button:hover {
+  background: var(--white);
+  color: var(--denimBlue);
+  border: 1px solid var(--denimBlue);
+  transition: 0.2s;
+}

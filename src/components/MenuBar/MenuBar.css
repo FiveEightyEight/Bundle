@@ -1,0 +1,86 @@
+.mBar--modal-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 1rem 1rem;
+  border-top-left-radius: 0.3rem;
+  border-top-right-radius: 0.3rem;
+}
+
+.mBar--modal-content {
+  height: 18rem;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: auto;
+  max-width: 30.75rem;
+  pointer-events: auto;
+  background-color: var(--babyBlue);
+  background-clip: padding-box;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: var(--br-9);
+  outline: 0;
+}
+
+.mBar--modal-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+  border-top: 1px solid var(--bundleBlue);
+  border-bottom-right-radius: 0.3rem;
+  border-bottom-left-radius: 0.3rem;
+}
+
+.mBar--item-add {
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 700;
+  border: 1px solid var(--bundleBlue);
+  background-color: var(--bundleBlue);
+  height: 2.6rem;
+  padding: 0.8rem;
+}
+
+.mBar--item-add:hover {
+  background-color: var(--white);
+  color: var(--bundleBlue);
+  transition: 0.3s;
+}
+
+.mBar--item-cancel {
+  color: white;
+  font-weight: 700;
+  border: 1px solid var(--smokeGrey);
+  border-radius: 1rem;
+  background-color: var(--smokeGrey);
+  height: 3rem;
+  padding: 0.8rem;
+}
+
+.mBar--item-cancel:hover {
+  background-color: var(--smokeBlack);
+  color: white;
+  transition: 0.3s;
+}
+
+.mBar--item-input {
+  height: 100%;
+  width: 5rem;
+}
+
+.mBar--item-input:focus {
+  outline-color: var(--bundleBlue);
+}
+
+.mBar--modal-title {
+  font-size: 1.5rem;
+  margin-bottom: 0;
+  line-height: 1.5;
+  font-weight: 700;
+}
+
+.mBar--item-label {
+  font-size: 1.3rem;
+}

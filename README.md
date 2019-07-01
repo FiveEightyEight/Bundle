@@ -1,71 +1,115 @@
-Bundle App
-Help people who don't travel often or are going somewhere new to feel less anxious about preparing and packing right for the trip. Our app helps with managing overall details of the trip and packing from one hub.
+![Bundle The Trip Readiness](https://lh3.googleusercontent.com/1KVsbCJ0Z6z7bUxsN6YgSwKtxI5adDgww0q2nP2Lf2i2Jc3Bzcz6mZ8Brpnf0x9yaH9eUPzX2vBD4CjNyZywyFeAssyvyahFW-elfycirHGFxAYVrWNbJAhrcqS9LYiglxg7c4kYJw=w1135-h709-no "Bundle Logo")
+# [**Bundle**](http://bundle.tips)
+### _A **mobile-first**, trip-readiness app_
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ Bundle relieves packing worries by showing travel goers what to pack from one place. Given the destination and duration of a trip, Bundle will create a customizable packing list. Once items are confirmed for a trip, travel goers can start tracking their packing progress. Bundle also has handy features like creating last-minute todo lists and storing booking information so that travel goers never have to feel like they’ve forgotten something important.
 
-## Available Scripts
 
-In the project directory, you can run:
+| | Table of Contents 🗂|
+|:-:|:--:|
+|1|**[Getting Started](#getting-started)**|
+|2|**[Prerequisites](#prerequisites)**|
+|3|**[Usage and Installation](#usage-and-installation)**|
+|4|**[Built With](#built-with-)**|
+|5|**[Contributing](#contributing-)**|
+|6|**[Authors](#authors-)**|
+|7|**[Acknowledgments](#acknowledgments--)**|
 
-### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### **Getting Started** 📄
+___
+#### Prerequisites
+1. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+2. [Bundle Back-End API](https://github.com/aionate0812/bundle_backend) 
 
-### `npm test`
+*  _**Minimum requirement**_**:**
+    - `git clone https://github.com/aionate0812/bundle_backend`
+    - **MapQuest API Key**: `https://developer.mapquest.com/documentation/` 
+    - **DarkSky API Key**: `https://darksky.net/dev`
+    - **Postgres Database**: `https://postgresapp.com/` _we recommend Postgres.app_
+    - **Firebase Authentication Config**: 
+      * *Docs*: `https://firebase.google.com/docs/auth?authuser=0` 
+      * *Console*: `https://console.firebase.google.com/project/_/authentication/users`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Usage and Installation
+3. In /src rename * **`firebaseConfigExample`** to * **`firebaseConfig`** and replace the Firebase Configurations with your own.
 
-### `npm run build`
+```javascript
+export default {
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
+  };
+```
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4. In /src rename * **`configExample.json`** to * **`config.json`** and replace the API configurations with your own.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+```javascript
+// Map Quest API used to parse city name into longitude and latitude coordinates
+// Dark Sky API to get the weather 
+{
+    "MQ_API_KEY":"",
+    "DARKSKY_API_KEY":""
+}
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+5. `npm install`
 
-### `npm run eject`
+6. `npm start`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### **Deployment** ⛓
+---
+1. **We recommend Firebase:** Docs: `https://firebase.google.com/docs/hosting?authuser=0`
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### **Built With** 🛠
+___
+|Libraries||||
+|:--|:---:|:---:|---:| 
+|**axios**|[GitHub](https://github.com/axios/axios)| [npm](https://www.npmjs.com/package/axios)| |
+|**bootstrap**|[GitHub](https://github.com/twbs/bootstrap) | [npm](https://www.npmjs.com/package/bootstrap) | [Web](https://getbootstrap.com/)|
+|**firebase**|[GitHub](https://github.com/firebase/)|[npm](https://www.npmjs.com/package/firebase)|[Web](https://firebase.google.com/)|
+|**i18n-iso-countries**| [Github](https://github.com/michaelwittig/node-i18n-iso-countries) | [npm](https://www.npmjs.com/package/i18n-iso-countries)| |
+| **libphonenumber-js**|[Github](https://github.com/catamphetamine/libphonenumber-js) | [npm](https://www.npmjs.com/package/libphonenumber-js) | [Web](https://catamphetamine.github.io/libphonenumber-js/)|
+| **moment**| [GitHub](https://github.com/moment/moment) | [npm](https://www.npmjs.com/package/moment) | [Web](https://momentjs.com/) |
+|**react**| [Github](https://github.com/facebook/react) | [npm](https://www.npmjs.com/package/react) | [Web](https://reactjs.org/)|
+|**react-burger-menu**| [Github](https://github.com/negomi/react-burger-menu) | [npm](https://www.npmjs.com/package/react-burger-menu) | [Web](http://negomi.github.io/react-burger-menu/)|
+|**react-circular-progressbar**| [Github](https://github.com/kevinsqi/react-circular-progressbar) | [npm](https://www.npmjs.com/package/react-circular-progressbar) | [Web](https://www.kevinqi.com/react-circular-progressbar/)|
+|**react-dates**| [Github](https://github.com/airbnb/react-dates) | [npm](https://www.npmjs.com/package/react-dates) | [Web](http://airbnb.io/react-dates/?path=/story/daterangepicker-drp--default)|
+|**react-router-dom**| [Github](https://github.com/ReactTraining/react-router) | [npm](https://www.npmjs.com/package/react-router-dom) | [Web](https://reacttraining.com/react-router/web/guides/quick-start)|
+|**react-toastify**| [Github](https://github.com/fkhadra/react-toastify) | [npm](https://www.npmjs.com/package/react-toastify) | [Web](https://fkhadra.github.io/react-toastify/)|
+|**react-with-direction**| [Github](https://github.com/airbnb/react-with-direction) | [npm](https://www.npmjs.com/package/react-with-direction) | |
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### **Contributing** 👁
+___
+1. Clone or Fork repo
+2. Switch to `developmentMaster` branch
+3. Fork a branch for each new feature you'd like to add
+4. Before pushing changes, switch to `developmentMaster` then `git pull` for latest updates.
+    - Switch to your branch
+    - Merge `developmentMaster` into your branch
+    - Resolve any conflicts
+5. Push your branch
+6. Create Pull Request against `developmentMaster`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### **Authors** 📚
+---
+| | | |
+|:---| :---: | :---:| 
+|🧙**Pam** | [GitHub](https://github.com/pamelaabreu) | [LinkedIn](https://www.linkedin.com/in/pamela-abreu/) |
+|👩‍🚀**Rupa**| [GitHub](https://github.com/Rupa1216) | [LinkedIn](https://www.linkedin.com/in/sdatta87/)|
+|👨‍🎤**Alex**| [GitHub](https://github.com/aionate0812) | [LinkedIn](https://www.linkedin.com/in/alexander-onate/)| 
+|👨‍🚀**Robert**| [GitHub](https://github.com/FiveEightyEight) | [LinkedIn](https://www.linkedin.com/in/robert-abreu/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### **Acknowledgments**  🤜🤛
+---
+ Special thanks to our tech mentor Josh & our instructors Mo & Taq.
+* **Josh Goldberg**: [GitHub](https://github.com/JoshuaKGoldberg) 🐐
+* **Mo Mosayed**: [GitHub](https://github.com/mmosayed)
+* **Taq Karim**: [GitHub](https://github.com/mottaquikarim)

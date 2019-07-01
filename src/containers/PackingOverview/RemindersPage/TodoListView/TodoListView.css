@@ -1,0 +1,53 @@
+.todo-list-view {
+  overflow-y: auto;
+  width: 100%;
+  justify-content: center;
+}
+
+.todo {
+  /* margin: 4px; */
+  margin: 0.4rem 0rem;
+  box-shadow: 1px 1px 1px 0px #aaa;
+  border-radius: 0.9rem;
+  width: 100%;
+}
+
+.completed-container {
+  border: 1px solid var(--bundleBlue);
+}
+
+.incomplete-header-button {
+  background-color: var(--bundleBlue);
+  border: 1px solid var(--bundleBlue);
+  color: var(--white);
+}
+
+.incomplete-header-button:focus {
+  outline: none;
+}
+
+.incomplete-header {
+  border: 1px solid var(--bundleBlue);
+}
+
+.incomplete-header:hover {
+  color: var(--white);
+}
+
+.incomplete-header:focus {
+  outline: none;
+}
+
+.complete-header {
+  border: 1px solid var(--smokeGrey);
+}
+
+.complete-header:focus {
+  outline: none !important;
+}
+
+.button-container {
+  position: fixed;
+  bottom: 0;
+  /* left: 40%; */
+}

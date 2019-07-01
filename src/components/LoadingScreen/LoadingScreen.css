@@ -1,0 +1,53 @@
+.loading-fullscreen {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #4896c9;
+  z-index: 1050;
+}
+
+.loading-InnerBlock {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.loadingScreen-container {
+  width: 100%;
+  height: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 0.5fr 1fr 1fr 1fr 0.5fr;
+  grid-template-areas:
+    ". . ."
+    ". loadBundle-img ."
+    ". loadBundle-img ."
+    ". loadBundle-text ."
+    ". loadBundle-text .";
+}
+
+.loadBundle-img {
+  grid-area: loadBundle-img;
+  border-radius: var(--br-9), var(--br-9) 0 0;
+  background-image: url("../../assets/images/background_images/bundle_load.gif");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+.loadBundle-img:after {
+  content: "";
+  padding-bottom: 100%;
+  display: block;
+}
+
+.loadBundle-text {
+  margin-top: -7rem;
+  grid-area: loadBundle-text;
+  text-align: center;
+  align-self: start;
+}

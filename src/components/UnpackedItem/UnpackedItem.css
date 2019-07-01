@@ -1,0 +1,243 @@
+.uItem {
+  background-color: white;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2),
+    0 1.5px 3.33px 0 rgba(0, 0, 0, 0.19);
+}
+
+.uItem--head {
+  background-color: rgba(255, 255, 255, 0.7);
+  overflow: scroll;
+  border-top-left-radius: var(--br-9);
+  border-top-right-radius: var(--br-9);
+}
+
+.uItem--buttons {
+  /* margin-top: 11rem; */
+  margin-top: 79%;
+}
+
+.uItem--button-main {
+  background-color: rgba(0, 0, 0, 0);
+  border: 1px solid rgba(0, 0, 0, 0);
+}
+
+.uItem--button-left {
+  background-color: #4996c9;
+  border-left: 1px solid #4996c9;
+  border-right: 1px solid #4996c9;
+  border-top: 1px solid #4996c9;
+  border-bottom: 1px solid #4996c9;
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+  padding-top: 0.5rem;
+}
+
+.uItem--button-right {
+  background-color: white;
+  border-left: 1px solid #4996c9;
+  border-right: 1px solid #4996c9;
+  border-top: 1px solid #4996c9;
+  border-bottom: 1px solid #4996c9;
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  color: var(--bundleBlue);
+}
+
+.uItem--button-right:hover {
+  background-color: #39b225;
+  border-left: 1px solid #39b225;
+  border-right: 1px solid #39b225;
+  border-top: 1px solid #39b225;
+  border-bottom: 1px solid #39b225;
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  transition: 0.3s;
+  color: var(--white);
+}
+
+.uItem--button-rightDelete {
+  background-color: white;
+  border-left: 1px solid #4996c9;
+  border-right: 1px solid #4996c9;
+  border-top: 1px solid #4996c9;
+  border-bottom: 1px solid #4996c9;
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  color: var(--bundleBlue);
+}
+
+.uItem--button-rightDelete:hover {
+  background-color: var(--sunsetRed);
+  border-left: 1px solid var(--sunsetRed);
+  border-right: 1px solid var(--sunsetRed);
+  border-top: 1px solid var(--sunsetRed);
+  border-bottom: 1px solid var(--sunsetRed);
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  transition: 0.3s;
+  color: var(--white);
+}
+
+.uItem--quantity-button {
+  background-color: #4996c9;
+  border: 1px solid #4996c9;
+}
+
+.uItem--quantity-weight {
+  font-weight: 700;
+}
+
+.uItem--title--font {
+  font-weight: 700;
+  vertical-align: middle;
+  width: 100%;
+}
+
+.uItem--content-main {
+  background-size: cover;
+  background-position: center;
+}
+
+/* Sizing  */
+
+.uItem--unpacked {
+  width: 140px;
+  height: 180px;
+}
+
+.uItem--unpacked-md {
+  width: 220px;
+  height: 260px;
+}
+
+.uItem--unpacked-lg {
+  width: 260px;
+  height: 300px;
+}
+
+.uItem--unpacked-xlg {
+  width: 300px;
+  height: 340px;
+}
+
+.uItem--unpacked-xxlg {
+  width: 340px;
+  height: 380px;
+}
+
+.uItem--header {
+  height: 2.5rem;
+  font-size: 1.5rem;
+}
+
+.uItem--header-md {
+  height: 2.8rem;
+  font-size: 1.8rem;
+}
+
+.uItem--header-lg {
+  height: 3.3rem;
+  font-size: 2.1rem;
+}
+
+.uItem--header-xlg {
+  height: 3.6rem;
+  font-size: 2.3rem;
+}
+
+.uItem--header-xxlg {
+  height: 4.2rem;
+  font-size: 2.6rem;
+}
+
+.uItem--button {
+  height: 30px;
+  width: 100px;
+}
+
+.uItem--button-md {
+  height: 40px;
+  width: 100px;
+}
+
+.uItem--button-lg {
+  height: 50px;
+  width: 100px;
+}
+
+.uItem--button-xlg {
+  height: 48px;
+  width: 100px;
+}
+
+.uItem--button-xxlg {
+  height: 55px;
+  width: 100px;
+}
+
+.uItem--btnrow {
+  font-size: 1.2rem;
+}
+
+.uItem--btnrow-md {
+  margin-top: 0.2rem;
+  font-size: 1.4rem;
+}
+
+.uItem--btnrow-lg {
+  margin-top: 1rem;
+  font-size: 1.4rem;
+}
+
+.uItem--btnrow-xlg {
+  margin-top: 0.8rem;
+  font-size: 1.4rem;
+}
+
+.uItem--btnrow-xxlg {
+  margin-top: 0.8rem;
+  font-size: 1.6rem;
+}
+
+.uItem--pack {
+  font-size: 1.5rem;
+}
+
+.uItem--pack-md {
+  font-size: 1.8rem;
+}
+
+.uItem--pack-lg {
+  font-size: 2.1rem;
+}
+
+.uItem--pack-xlg {
+  font-size: 2.3rem;
+}
+
+.uItem--pack-xxlg {
+  font-size: 2.6rem;
+}
+
+.uItem--quantity {
+  font-size: 1.4rem;
+}
+
+.uItem--quantity-md {
+  font-size: 1.8rem;
+}
+
+.uItem--quantity-lg {
+  margin-top: 0.5rem;
+  font-size: 2rem;
+}
+
+.uItem--quantity-xlg {
+  margin-top: 0.3rem;
+  font-size: 2.2rem;
+}
+
+.uItem--quantity-xxlg {
+  margin-top: 0.5rem;
+  font-size: 2.2rem;
+}

@@ -1,0 +1,54 @@
+.tabs--main {
+  padding-top: 1.3rem;
+  margin-bottom: 1rem;
+}
+
+.tabs--header {
+  font-size: 2em;
+}
+
+.tabs-active {
+  font-weight: 700;
+  color: var(--white);
+  border-bottom: 0.2rem solid white;
+  padding-bottom: 0.4rem;
+  transition: 0.3s;
+}
+
+.tabs-inactive {
+  color: rgba(251, 251, 251, 0.8);
+}
+
+.tabs-inactive:hover {
+  border-bottom: 0.2rem solid rgb(179, 176, 176);
+  padding-bottom: 0.4rem;
+  transition: 0.3s;
+}
+
+.tabs--trip {
+  font-size: 1.5em;
+  color: var(--white);
+}
+.tabs--details {
+  font-size: 1.5em;
+  color: var(--white);
+}
+
+.tabs--button {
+  background: none;
+  display: inline-block;
+  border: none;
+  margin: 0;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  text-align: left;
+}
+
+.tabs--button:hover,
+.tabs--button:focus {
+  font-weight: 700;
+  outline: var(--bundleBlue);
+}

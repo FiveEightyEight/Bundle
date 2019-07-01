@@ -1,0 +1,84 @@
+/* Position and sizing of burger button */
+.bm-burger-button {
+  position: fixed;
+  width: 36px;
+  height: 30px;
+  left: 36px;
+  top: 36px;
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+  background: var(--white);
+  transition: background 0.2s ease;
+}
+
+/* Color/shape of burger icon bars on hover*/
+.bm-burger-bars-hover {
+  background: var(--white);
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+  height: 500px;
+  width: 500px;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+  background: white;
+}
+
+/*
+  Sidebar wrapper styles
+  Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
+  */
+.bm-menu-wrap {
+  position: fixed;
+  height: 100%;
+}
+
+/* General sidebar styles */
+.bm-menu {
+  background: linear-gradient(180deg, var(--bundleBlue), var(--babyBlue));
+  padding: 2.5em 1.5em 0;
+  font-size: 1.15em;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #373a47;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: var(--white);
+  padding: 0.4em;
+}
+
+/* Individual item */
+.bm-item {
+  display: inline-block;
+  outline: none;
+  color: white;
+  transition: color 0.2s ease;
+}
+
+.bm-item:hover {
+  color: var(--denimBlue);
+  text-decoration: none;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: var(--bundleBlue70);
+}
+
+.logout-Button {
+  transition: background 0.2s ease;
+}
+
+.logout-Button:hover {
+  color: var(--white);
+  background: var(--bundleBlue70);
+}

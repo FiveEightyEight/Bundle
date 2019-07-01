@@ -1,0 +1,52 @@
+.suggestions-categories {
+  display: flex;
+  overflow-x: scroll;
+}
+
+.inactiveCategory-item {
+  transition: border, border-radius, color 0.2s ease;
+}
+
+.inactiveCategory-item:hover {
+  border: 3px solid white;
+  border-radius: var(--br-9);
+  color: var(--denimBlue);
+}
+
+.bundleItSubmitButton {
+  transition: background 0.2s ease;
+}
+
+.bundleItSubmitButton:hover {
+  background: var(--safeGreen);
+}
+
+.cancelBundleButton {
+  transition: color, border 0.2s ease;
+}
+
+.cancelBundleButton:hover {
+  color: var(--sunsetRed);
+  border-color: var(--sunsetRed);
+}
+
+.activeSuggestedItem-border {
+  transition: 0.2s ease;
+  border: 3px solid var(--safeGreen);
+}
+
+.activeSuggestedItem-color {
+  color: var(--safeGreen);
+}
+
+.activeSuggestedItem-bg-color {
+  background: var(--safeGreen);
+}
+
+.suggestions-checked-icon-size {
+  font-size: 2rem;
+}
+
+.suggested-icon-size {
+  font-size: 4rem;
+}

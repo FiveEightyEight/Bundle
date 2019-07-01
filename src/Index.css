@@ -1,0 +1,222 @@
+/* Imports google fonts directly into the CSS */
+@import url("https://fonts.googleapis.com/css?family=Baloo|Muli:300,400,700,900&display=swap");
+
+/* 
+font-family: "Muli", sans-serif; 
+font-family: 'Baloo', cursive;
+*/
+
+/* Removes any DEFAULT padding or margin from all elements */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* Adds the box sizing to every element */
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+/* includes the padding in the dimensions of the boxes */
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; /* 10/16 =.625 10px*/
+}
+
+body {
+  font-family: "Muli", sans-serif;
+}
+
+:root {
+  --white: #ffffff;
+  --white80: rgba(251, 251, 251, 0.8);
+  --huate: #eef0f2;
+  --huate80: rgba(238, 240, 242, 0.8);
+  --babyBlue: #c3d8e7;
+  --babyBlue50: rgba(73, 150, 201, 0.5);
+  --bundleBlue: #4996c9;
+  --bundleBlue70: rgba(73, 150, 201, 0.7);
+  --denimBlue: #2541b2;
+  --smokeBlack: #141414;
+  --smokeGrey: #9d9d9d;
+  --smokeGrey30: rgba(157, 157, 157, 0.3);
+  --safeGreen: #39b225;
+  --sunsetRed: #d9534f;
+  --ff-baloo: "Baloo", cursive;
+  --ff-mali: "Muli", sans-serif;
+  --ds-lightGrey: 0px 4px 7px rgba(0, 0, 0, 0.25);
+  --br-9: 0.9rem;
+  --br-18: 1.8rem;
+  --bundleBlue-border-3: 0.3rem solid var(--bundleBlue);
+  --bundleBlue-border-2: 0.2rem solid var(--bundleBlue);
+  --bundleBlue-border-1: 0.1rem solid var(--bundleBlue);
+}
+
+.mali300 {
+  font-family: var(--ff-mali);
+  font-weight: 300;
+}
+
+.mali400 {
+  font-family: var(--ff-mali);
+  font-weight: 400;
+}
+
+.mali700 {
+  font-family: var(--ff-mali);
+  font-weight: 700;
+}
+
+.mali900 {
+  font-family: var(--ff-mali);
+  font-weight: 900;
+}
+
+.baloo {
+  font-family: var(--ff-baloo);
+}
+
+.ds-lightGrey {
+  box-shadow: var(--ds-lightGrey);
+}
+
+.b-radius9 {
+  border-radius: var(--br-9);
+}
+
+.b-radius18 {
+  border-radius: var(--br-18);
+}
+
+.bg-white {
+  background: var(--white);
+}
+
+.bg-white80 {
+  background: var(--white80);
+}
+
+.bg-huate80 {
+  background: var(--huate80);
+}
+
+.bg-huate {
+  background: var(--huate);
+}
+
+.bg-babyBlue {
+  background: var(--babyBlue);
+}
+
+.bg-babyBlue50 {
+  background: var(--babyBlue50);
+}
+
+.bg-opacity80 {
+  background: var(--opacity80);
+}
+
+.bg-bundleBlue70 {
+  background: var(--bundleBlue70);
+}
+
+.bg-bundleBlue {
+  background: var(--bundleBlue);
+}
+
+.bg-denimBlue {
+  background: var(--denimBlue);
+}
+
+.bg-smokeGrey {
+  background: var(--smokeGrey);
+}
+
+.bg-bundleBlueBabyBlue {
+  background: linear-gradient(180deg, var(--bundleBlue), var(--babyBlue));
+}
+
+.bg-denimBlueBabyBlue {
+  background: linear-gradient(180deg, var(--denimBlue), var(--babyBlue));
+}
+
+.c-bundleBlue {
+  color: var(--bundleBlue);
+}
+
+.c-huate {
+  color: var(--huate);
+}
+
+.c-white {
+  color: var(--white);
+}
+
+.c-smokeGrey {
+  color: var(--smokeGrey);
+}
+
+.c-denimBlue {
+  color: var(--denimBlue);
+}
+
+.bundeBlue-border-3 {
+  border: var(--bundleBlue-border-3);
+}
+
+.bundleBlue-border-bottom-3 {
+  border-bottom: var(--bundleBlue-border-3);
+}
+
+.bundleBlue-border-left-3 {
+  border-left: var(--bundleBlue-border-3);
+}
+
+.bundleBlue-border-right-3 {
+  border-right: var(--bundleBlue-border-3);
+}
+
+.bundeBlue-border-2 {
+  border: var(--bundleBlue-border-2);
+}
+
+.bundleBlue-border-bottom-2 {
+  border-bottom: var(--bundleBlue-border-2);
+}
+
+.bundleBlue-border-left-2 {
+  border-left: var(--bundleBlue-border-2);
+}
+
+.bundleBlue-border-right-2 {
+  border-right: var(--bundleBlue-border-2);
+}
+
+.bundeBlue-border-1 {
+  border: var(--bundleBlue-border-1);
+}
+
+.bundleBlue-border-bottom-1 {
+  border-bottom: var(--bundleBlue-border-1);
+}
+
+.bundleBlue-border-left-1 {
+  border-left: var(--bundleBlue-border-1);
+}
+
+.bundleBlue-border-right-1 {
+  border-right: var(--bundleBlue-border-1);
+}
+
+.bundleBlueButton {
+  background: var(--bundleBlue);
+  border-radius: var(--br-9);
+  color: var(--white);
+}
+
+.capitalizeText {
+  text-transform: capitalize;
+}

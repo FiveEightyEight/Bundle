@@ -1,0 +1,11 @@
+.ppage--main {
+  background-color: var(--babyBlue);
+}
+
+.ppage--bag {
+  overflow-y: auto;
+}
+
+.ppage--menubar-position {
+  bottom: 4.7em;
+}

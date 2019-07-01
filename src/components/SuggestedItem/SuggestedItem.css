@@ -1,0 +1,91 @@
+.item {
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2),
+    0 1.5px 3.33px 0 rgba(0, 0, 0, 0.19);
+  width: 60px;
+  height: 102px;
+}
+
+.item--border--blue {
+  border: 1px solid #4896c9ff;
+}
+
+.item--border--white {
+  border: 1px solid white;
+}
+
+.item--count--packed {
+  font-size: 7px;
+  color: white;
+}
+
+.item--count--size {
+  font-size: 7px;
+}
+
+.item--font--blue {
+  background-color: #4896c9ff;
+  color: white;
+}
+
+.item--font--white {
+  background-color: white;
+  color: #4896c9ff;
+}
+
+.item--icon--packed {
+  font-size: 12px;
+  color: white;
+}
+
+.item--icon--bundled {
+  font-size: 12px;
+  color: white;
+}
+
+.item--icon--unbundled {
+  font-size: 12px;
+  color: #4896c9ff;
+}
+
+.div--icon--size {
+  height: 16px;
+}
+
+.item--icon--size {
+  font-size: 12px;
+  color: #4896c9ff;
+}
+
+.item--image--size {
+  width: 40px;
+  height: 40px;
+}
+
+.item--input--count {
+  width: 15px;
+  height: 13px;
+  font-size: 10px;
+  font-weight: 350;
+}
+
+.item--bundle--font {
+  font-size: 8px;
+  font-weight: 500;
+  color: #4896c9ff;
+}
+
+.item--text--selected {
+  border: 1px solid #4896c9ff;
+  background-color: #4896c9ff;
+  color: white;
+}
+
+.item--text--unselected {
+  border: 1px solid #4896c9ff;
+  background-color: white;
+  color: #4896c9ff;
+}
+
+.item--title--font {
+  font-size: 10px;
+}

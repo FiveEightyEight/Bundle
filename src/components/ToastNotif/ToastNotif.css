@@ -1,0 +1,26 @@
+.fancy-progress-bar {
+  background: var(--bundleBlue); /* Old browsers */
+  background: -moz-linear-gradient(
+    -45deg,
+    var(--bundleBlue) 0%,
+    var(--denimBlue) 100%
+  ); /* FF3.6-15 */
+  background: -webkit-linear-gradient(
+    -45deg,
+    var(--bundleBlue) 0%,
+    var(--denimBlue) 100%
+  ); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(
+    135deg,
+    var(--bundleBlue) 0%,
+    var(--denimBlue) 100%
+  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.toastDropShadow {
+  box-shadow: 5px 5px 20px 0px var(--bundleBlue);
+}
+
+.toast-text-color {
+  color: var(--denimBlue);
+}

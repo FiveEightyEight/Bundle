@@ -1,0 +1,1924 @@
+{
+  "general": [
+    {
+      "name": "Shirts",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Tops",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Socks",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Bra",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Underwear",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Belt",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Dress",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Long Pants",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Hat",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Cap",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Beanie",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Flip-Flops",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Sandals",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Shoes",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Boots",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Short Pants",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Skirt",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Bathing Suit",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Towel",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Pajamas",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Long Underwear",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Leggings",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Sweater",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Small Bag",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Purse",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Large Bag",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Bookbag",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Light Jacket",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Rain Coat",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Heavy Jacket",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Scarf",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Gloves",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "clothing"
+    },
+    {
+      "name": "Reading Glasses",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "accessories"
+    },
+    {
+      "name": "Sunglasses",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "accessories"
+    },
+    {
+      "name": "Pocketknife",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "accessories"
+    },
+    {
+      "name": "Luggage Label",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "accessories"
+    },
+    {
+      "name": "Earplugs",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "accessories"
+    },
+    {
+      "name": "Wallet",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "accessories"
+    },
+    {
+      "name": "Pen",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "accessories"
+    },
+    {
+      "name": "Umbrella",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "accessories"
+    },
+    {
+      "name": "Travel Pillow",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "accessories"
+    },
+    {
+      "name": "Tripod",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "electronics"
+    },
+    {
+      "name": "Mobile Phone",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "electronics"
+    },
+    {
+      "name": "Camera",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "electronics"
+    },
+    {
+      "name": "SD Card",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "electronics"
+    },
+    {
+      "name": "Laptop",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "electronics"
+    },
+    {
+      "name": "Tablet",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "electronics"
+    },
+    {
+      "name": "USB Stick",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "electronics"
+    },
+    {
+      "name": "Cellphone Charger",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "electronics"
+    },
+    {
+      "name": "Laptop",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "electronics"
+    },
+    {
+      "name": "Tablet Charger",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "electronics"
+    },
+    {
+      "name": "Headphones",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "electronics"
+    },
+    {
+      "name": "Travel Adaptor",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "electronics"
+    },
+    {
+      "name": "Toothbrush",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Toothbrush Cover",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Floss",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Toothpaste",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Mouthwash",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Conditoner",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Shower Gel",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Shampoo",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Fragrance",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Sunscreen",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Sun Tan Lotion",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Condoms",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Hair Gel",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Spray",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Brush",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Cream",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Eye Mask",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Nail Clippers",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Q-tips",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Pocket Mirror",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Hair-dryer",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Shaving Gel",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Glasses",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Hand Sanitizer",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Contacts",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Contacts Solution",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Hair Ties",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Razor",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Makeup",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Jewelery",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Tampons",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Pads",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Deodorant",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "personals"
+    },
+    {
+      "name": "Photocopies of Documents",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "ID",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Tickets",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Passport",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Identity Card",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Visa",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Driver's License",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Wallet",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "International Driver's License",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Boarding Pass",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Vouchers",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Travel Insurance Documents",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Vaccination Card",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Money",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Cash",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Foreign",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Currency",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Credit Card",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Debit Card",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Notebook",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Guidebook",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Printed Trip Itinerary",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Accommodation Reservation",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Contact Information",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Book",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "personal",
+      "category": "documents"
+    },
+    {
+      "name": "Pain Killers",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "first-aid"
+    },
+    {
+      "name": "Medications",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "first-aid"
+    },
+    {
+      "name": "Patches",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "first-aid"
+    },
+    {
+      "name": "Vitamins",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "first-aid"
+    },
+    {
+      "name": "Drugs",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "first-aid"
+    },
+    {
+      "name": "Prescriptions",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "first-aid"
+    },
+    {
+      "name": "Tweezers",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "first-aid"
+    },
+    {
+      "name": "House Key",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "essentials"
+    },
+    {
+      "name": "Money Belt",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "carry-on",
+      "category": "essentials"
+    },
+    {
+      "name": "Onesies",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "children"
+    },
+    {
+      "name": "Socks",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "children"
+    },
+    {
+      "name": "Trousers",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "children"
+    },
+    {
+      "name": "Long Sleeve Shirts",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "children"
+    },
+    {
+      "name": "Sweater",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "children"
+    },
+    {
+      "name": "Jacket",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "children"
+    },
+    {
+      "name": "Raincoat",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "children"
+    },
+    {
+      "name": "Bathing Suit",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "children"
+    },
+    {
+      "name": "Hat",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "children"
+    },
+    {
+      "name": "Pajamas",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "children"
+    },
+    {
+      "name": "Shoes",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "children"
+    },
+    {
+      "name": "Boots",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "children"
+    },
+    {
+      "name": "Travel Pillow",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Book",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Kindle",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Phone",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Phone Charger",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Portable Charger",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Snacks",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Blanket",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Camera",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Candy",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Chapstick",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Charger",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Headphones",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Glasses",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Gum",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Mints",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Hand-Sanitizer",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Earbuds",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "iPhone Charger",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Laptop",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Lip Balm",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Lotion",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Money",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Notebook",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Pen",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Phone",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Tissue",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    },
+    {
+      "name": "Water Bottle",
+      "quantity": {
+        "2": 1,
+        "4": 2,
+        "7": 2,
+        "10": 3,
+        "14": 4
+      },
+      "bag_type": "checked",
+      "category": "misc"
+    }
+  ]
+}

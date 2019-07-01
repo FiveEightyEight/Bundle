@@ -1,15 +1,21 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Bundle",
+  "name": "Bundle",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#4996C9",
+  "background_color": "#4996C9",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "bundle-square-icon-180x180.png",
+      "sizes": "64x64 32x32 24x24 16x16 144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "bundle-square-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }

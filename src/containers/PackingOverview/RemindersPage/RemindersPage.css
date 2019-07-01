@@ -1,0 +1,9 @@
+.reminderspage--lists {
+  overflow-y: auto;
+}
+
+.button-container {
+  position: fixed;
+  bottom: 0;
+  /* left: 40%; */
+}

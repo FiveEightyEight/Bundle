@@ -1,0 +1,19 @@
+.publicHomeBanner {
+  background: linear-gradient(90deg, var(--bundleBlue70), var(--bundleBlue70)),
+    url("../../assets/images/background_images/itemsCarousel.gif");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.createTripForm-mb {
+  margin-bottom: 20rem;
+}
+
+.publicHome-width {
+  width: 120rem;
+}
+
+.publicHome-c-babyBlue {
+  color: var(--babyBlue);
+}

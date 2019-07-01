@@ -1,0 +1,35 @@
+@media only screen and (max-width: 600px) {
+  .card-vertical-space {
+    height: 8rem;
+  }
+
+  .global-card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 1rem;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .card-vertical-space {
+    height: 15rem;
+  }
+
+  .global-card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 1rem;
+  }
+}
